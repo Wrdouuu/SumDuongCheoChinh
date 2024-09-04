@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\bin\Debug\net8.0\SumDuongCheo2Chieu.exe
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\bin\Debug\net8.0\SumDuongCheo2Chieu.deps.json
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\bin\Debug\net8.0\SumDuongCheo2Chieu.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\bin\Debug\net8.0\SumDuongCheo2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\bin\Debug\net8.0\SumDuongCheo2Chieu.pdb
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\refint\SumDuongCheo2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.pdb
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\SumDuongCheo2Chieu.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\SumDuongCheo2Chieu\obj\Debug\net8.0\ref\SumDuongCheo2Chieu.dll
